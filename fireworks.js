@@ -6,9 +6,9 @@ const colors = [
   "#ff4cf1",
   "#ffffff",
 ];
-const letters = "✨✨  ✨✨";
-const nameLine1 = "bonteng";
-const nameLine2 = "jink";
+const letters = "✨✨ ❤️ ✨✨";
+const nameLine1 = "love";
+const nameLine2 = "you<3";
 let letterIndex = 0;
 
 function getRandomLetter() {
